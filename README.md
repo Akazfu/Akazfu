@@ -1,2 +1,2 @@
 
-<img src="https://github.com/Akazfu/Akazfu/blob/main/gifs/4SHX.gif" width="1080">
+<img src="https://github.com/Akazfu/Akazfu/blob/main/gifs/18w.gif" width="1080">
